@@ -5,6 +5,8 @@ https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
 
 
 ## Step 1: Creating a Bigram Model
+https://colab.research.google.com/drive/1qIYrnhf82SqcHAxOqi4Eut6P3KbpX4OV?usp=sharing
+
 TODO:
 - Put a condition on length of the generated name
 - Train a trigram language model
