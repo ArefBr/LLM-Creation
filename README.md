@@ -6,7 +6,7 @@ https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
 
 ## Step 1: Creating a Bigram Model
 TODO:
-- Put a condition on length of name generation
+- Put a condition on length of the generated name
 - Train a trigram language model
 - Use validation and test set
 - Use the val set to tune the strength of smoothing
