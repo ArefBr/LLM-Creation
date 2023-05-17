@@ -16,7 +16,8 @@ TODO:
 - Use the val set to tune the strength of smoothing
 - Use F.cross_entropy instead.
 - Use a different dataset
-- Use a Persian Dataset
+- Use a Persian Dataset ✅ <br/>
+---> Loss: 2.4916
 
 
 ## Step 2: Creating a MLP Model
