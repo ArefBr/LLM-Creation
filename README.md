@@ -10,7 +10,7 @@ https://colab.research.google.com/drive/1qIYrnhf82SqcHAxOqi4Eut6P3KbpX4OV?usp=sh
 TODO:
 - Put a condition on length of the generated name
 - Train a trigram language model ✅ <br/>
----> Probability Method Done
+---> Probability Method Done <br/>
 ---> ANN Method Final
 - Use validation and test set
 - Use the val set to tune the strength of smoothing
