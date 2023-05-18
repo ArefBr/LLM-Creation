@@ -15,7 +15,7 @@ TODO:
 - Use validation and test set
 - Use the val set to tune the strength of smoothing
 - Use F.cross_entropy instead.
-- Use a different dataset
+- Use a different dataset ✅
 - Use a Persian Dataset ✅ <br/>
 ---> Loss: 2.4916
 
